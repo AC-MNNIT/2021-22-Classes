@@ -21,7 +21,8 @@ Join our fb group for classes schedule and other details.
 
 ## Resources 
 - Internship 
-
+  - [30 Dec 2021 - STL/Collections(Vector, Iterator, ArrayList, Arrays)](Internship/2021-12-30_Class-1/)
+  - [31 Dec 2021 - Git, GitHub](Internship/2021-12-30_Class-2/)
 ## Contributors
 
 * [Anubhav](https://github.com/AnubhavGoel2808)
