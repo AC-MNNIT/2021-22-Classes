@@ -4,7 +4,7 @@
 
 ## Topics Covered
 
-- git
+- Git
 - GitHub
 
 ## Relevant Links
@@ -12,4 +12,4 @@
 - PPT [Link](https://drive.google.com/file/d/14cwPJF4qOA53sOtX5C--jytZC19S0UTk/view?usp=sharing)
 - Course [Link](https://classroom.udacity.com/courses/ud123)
 
-If you have any query regarding this class, feel free to contact any of your senior.
+If you have any query regarding this class, feel free to contact any of Application Club Leads.
