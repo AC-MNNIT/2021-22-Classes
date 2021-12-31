@@ -22,22 +22,22 @@ Join our fb group for classes schedule and other details.
 ## Resources 
 - Internship 
   - [30 Dec 2021 - STL/Collections(Vector, Iterator, ArrayList, Arrays)](Internship/2021-12-30_Class-1/)
-  - [31 Dec 2021 - Git, GitHub](Internship/2021-12-30_Class-2/)
+  - [31 Dec 2021 - Git, GitHub](Internship/2021-12-31_Class-2/)
 
 ## Contributors
 
-* [Anubhav](https://github.com/AnubhavGoel2808)
-* [Archit](https://github.com/architkeshri)
+* [Anubhav Goel](https://github.com/AnubhavGoel2808)
+* [Archit Keshri](https://github.com/architkeshri)
 * [Asmit Mohan](https://github.com/Asmit-Mohan)
 * [Md Nurul Islam](https://github.com/mdnuruli579)
-* [Neeraj](https://github.com/Neeraj-2307)
-* [Ojasvi](https://github.com/coder-oj)
-* [Prakhar](https://github.com/Prakhar1106)
+* [Neeraj Joshi](https://github.com/Neeraj-2307)
+* [Ojasvi Gupta](https://github.com/coder-oj)
+* [Prakhar Gupta](https://github.com/Prakhar1106)
 * [Rekha](https://github.com/Rekha-Pal)
-* [Shanawaz](https://github.com/shanawaz28)
-* [Umang](https://github.com/Umang-19)
-* [Vaishnavi](https://github.com/Vaishnavi-101)
+* [Shanawaz Ali](https://github.com/shanawaz28)
+* [Umang Aggarwal](https://github.com/Umang-19)
+* [Vaishnavi Sharma](https://github.com/Vaishnavi-101)
 
 ## Contact
 
-We love to hear out suggestions. Reach out to us at <strong>applicationclub.mnnit@gmail.com</strong>
+We love to hear out suggestions. Reach out to us at <strong>[applicationclub.mnnit@gmail.com](mailto:applicationclub.mnnit@gmail.com)</strong>
