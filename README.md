@@ -27,7 +27,7 @@ Join our fb group for classes schedule and other details.
 * [Anubhav](https://github.com/AnubhavGoel2808)
 * [Archit](https://github.com/architkeshri)
 * [Asmit Mohan](https://github.com/Asmit-Mohan)
-* [Md Nurul Islam](https://github.com/)
+* [Md Nurul Islam](https://github.com/mdnuruli579)
 * [Neeraj](https://github.com/Neeraj-2307)
 * [Ojasvi](https://github.com/coder-oj)
 * [Prakhar](https://github.com/Prakhar1106)
