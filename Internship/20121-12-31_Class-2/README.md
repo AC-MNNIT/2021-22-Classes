@@ -1,6 +1,6 @@
 # AC Class 2
 
-## Class Recording: [Link](https://drive.google.com/file/d/1gd7oxrQv7b1Ty5A802hlsUIKdAL7lz2M/view?usp=sharing)
+## Class Recording: [Link](https://drive.google.com/file/d/1lRQQPvF41F2yn5CCqGwsIcehV3rnFTQB/view?usp=sharing)
 
 ## Topics Covered
 
