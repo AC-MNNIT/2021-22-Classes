@@ -2,7 +2,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-# MNNIT Application Club
+<h1 align="center">
+    MNNIT Application Club
+</h1>
 
 <div align="center">
     <img src="./aclogo.png" alt="MNNIT AC Club logo" height=200/>
