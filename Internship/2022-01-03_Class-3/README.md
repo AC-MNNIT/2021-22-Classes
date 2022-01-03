@@ -2,7 +2,7 @@
 
 ## Class Recording: [Link](https://drive.google.com/file/d/1YknhXaDXqB_UJemQO5uVF1bAyBmuVIJZ/view?usp=sharing)
 
-## Class Notebook : [Link](https://mnnitedu-my.sharepoint.com/:o:/g/personal/umang_2020ca100_mnnit_ac_in/EnKsnp_JOVFGoge_m9lbOjEB7eTr_loVnEty8jo3_rWAgw?e=LRES7t)
+## Class Notebook: [Link](https://mnnitedu-my.sharepoint.com/:o:/g/personal/umang_2020ca100_mnnit_ac_in/EnKsnp_JOVFGoge_m9lbOjEB7eTr_loVnEty8jo3_rWAgw?e=LRES7t)
 
 ## Topics Covered
 
