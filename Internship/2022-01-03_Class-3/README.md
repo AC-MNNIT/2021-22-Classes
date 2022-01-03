@@ -12,8 +12,8 @@
 
 ## Relevant Links
 
-- [CodeNCode]()
-- [cp-algorithms]()
+- [CodeNCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
+- [cp-algorithms](https://cp-algorithms.com/)
 
 ## Practice Problems
 Practice Problems
