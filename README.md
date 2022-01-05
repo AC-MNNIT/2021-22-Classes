@@ -34,6 +34,7 @@ Join our fb group for classes schedule and other details.
   - [30 Dec 2021 - STL/Collections(Vector, Iterator, ArrayList, Arrays)](Internship/2021-12-30_Class-1/)
   - [31 Dec 2021 - Git, GitHub](Internship/2021-12-31_Class-2/)
   - [03 Jan 2022 - Mathematics(Factorial, LCM, Euclidean Algo, Seive of Eratosthenes)](Internship/2022-01-03_Class-3/)
+  - [05 Jan 2022 - Modular Arithmetic, Binary Exponentiation](Internship/2022-01-05_Class-4/)
 
 ## Contributors
 
