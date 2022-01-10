@@ -35,6 +35,7 @@ Join our fb group for classes schedule and other details.
   - [31 Dec 2021 - Git, GitHub](Internship/2021-12-31_Class-2/)
   - [03 Jan 2022 - Mathematics(Factorial, LCM, Euclidean Algo, Seive of Eratosthenes)](Internship/2022-01-03_Class-3/)
   - [05 Jan 2022 - Modular Arithmetic, Binary Exponentiation](Internship/2022-01-05_Class-4/)
+  - [09 Jan 2022 - Binary Search, Two- Pointers, Sliding Window](Internship/2022-01-09_Class-5/)
 
 ## Contributors
 
@@ -52,4 +53,4 @@ Join our fb group for classes schedule and other details.
 
 ## Contact
 
-We love to hear out suggestions. Reach out to us at <strong>[applicationclub.mnnit@gmail.com](mailto:applicationclub.mnnit@gmail.com)</strong>
+We would love to hear out your suggestions, if any. Reach out to us at <strong>[applicationclub.mnnit@gmail.com](mailto:applicationclub.mnnit@gmail.com)</strong>
