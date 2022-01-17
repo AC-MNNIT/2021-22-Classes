@@ -36,6 +36,7 @@ Join our fb group for classes schedule and other details.
   - [03 Jan 2022 - Mathematics(Factorial, LCM, Euclidean Algo, Seive of Eratosthenes)](Internship/2022-01-03_Class-3/)
   - [05 Jan 2022 - Modular Arithmetic, Binary Exponentiation](Internship/2022-01-05_Class-4/)
   - [09 Jan 2022 - Binary Search, Two- Pointers, Sliding Window](Internship/2022-01-09_Class-5/)
+  - [16 Jan 2022 - Prefix Sum, Bit Manipulation](Internship/2022-01-16_Class-6/)
 
 ## Contributors
 
