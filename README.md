@@ -37,7 +37,7 @@ Join our fb group for classes schedule and other details.
   - [05 Jan 2022 - Modular Arithmetic, Binary Exponentiation](Internship/2022-01-05_Class-4/)
   - [09 Jan 2022 - Binary Search, Two- Pointers, Sliding Window](Internship/2022-01-09_Class-5/)
   - [16 Jan 2022 - Prefix Sum, Bit Manipulation](Internship/2022-01-16_Class-6/)
-  - [07 Fab 2022 - STL,Strings,Hashing](Internship/2022-02-07_Class-7/)
+  - [07 Feb 2022 - STL,Strings,Hashing](Internship/2022-02-07_Class-7/)
 
 ## Contributors
 
