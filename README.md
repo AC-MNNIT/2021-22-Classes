@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-    <img src="./aclogo.png" alt="MNNIT AC Club logo" height=200/>
+    <img src="./aclogo.png" alt="MNNIT AC Club logo"/>
 </div>
 
 This repository contains the resources, support links and other relevant materials for every class under Application Club, MNNIT Allahabad,Prayagraj.
@@ -39,6 +39,7 @@ Join our fb group for classes schedule and other details.
   - [16 Jan 2022 - Prefix Sum, Bit Manipulation](Internship/2022-01-16_Class-6/)
   - [07 Feb 2022 - STL,Strings,Hashing](Internship/2022-02-07_Class-7/)
   - [10 Feb 2022 - Recursion](Internship/2022-02-07_Class-8/)
+  - [13 Feb 2022 - Linked List](Internship/2022-02-13_Class-9/)
 
 ## Contributors
 
