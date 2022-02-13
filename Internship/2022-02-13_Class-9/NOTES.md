@@ -169,5 +169,54 @@ public class LinkedList{
 }
 ```
 
+## Reverse Linked List
+```
+Node reverse(Node node)
+{
+    Node prev = null;
+    Node current = node;
+    Node next = null;
+    while (current != null) {
+        next = current.next;
+        current.next = prev;
+        prev = current;
+        current = next;
+    }
+    node = prev;
+    return node;
+}
+```
+
+## Find Middle of Linked List
+```
+public Node middleNode(Node head) {
+    ListNode slow = head;
+    ListNode fast = head;
+    
+    while(fast!=null && fast.next != null){
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+    return slow;
+}
+```
+
+## Detect Loop in Linked List
+```
+public static boolean detectLoop(Node head){
+    Node slow = head;
+    Node fast = head;
+    
+    while(fast != null && fast.next != null){
+        slow = slow.next;
+        fast = fast.next.next;
+        
+        if(slow == fast)
+            return true;
+    }
+    return false;
+}
+```
+
 
 
