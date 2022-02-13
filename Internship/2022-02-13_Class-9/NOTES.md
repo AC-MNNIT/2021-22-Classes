@@ -19,7 +19,9 @@ A single node is also pretty simple. *It has just two parts: data, or the inform
 
 A single node doesn’t know how long the linked list is, and it may not necessarily even know where it starts, or where it ends. All a node is concerned with is the data it contains, and which node its pointer references to — the next node in the list.
 
-![Memory Management](./memory.jpeg)
+<div align="center">
+    <img src="./memory.jpeg" alt="Memory Management" height="60%"/>
+</div>
 
 ## Creation of Node datatype in C/C++ and Java
 
@@ -57,7 +59,7 @@ A little modification to singly linked list will result in doubly linked list. I
 If we point the **next** pointer of **last node of single linked list to the first node**, instead of null. Then it is called circular linked list.
 
 <div align="center">
-    <img src="./types.jpeg" alt="Memory Management"/>
+    <img src="./types.jpeg" alt="Types of Linked List" height="60%"/>
 </div>
 
 ## Implementation
