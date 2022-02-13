@@ -1,3 +1,5 @@
+# Linked List Lecture Notes
+**Mentor: [Prakhar Gupta](https://github.com/Prakhar1106)**
 ## Array
 
 1. Array is the collection of contiguous memory location.
