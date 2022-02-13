@@ -99,7 +99,7 @@ public class LinkedList{
         head = curr;
     }
     
-	// display linked list
+    // display linked list
     public void display(){
         Node temp = head;
         while(temp != null){
@@ -109,7 +109,7 @@ public class LinkedList{
         System.out.print("null");
     } 
 	
-	// add to the last
+    // add to the last
     public void add(int data){
         Node curr = new Node(data);
         if(head == null){
@@ -123,14 +123,14 @@ public class LinkedList{
         
         temp.next = curr;
     }      
-	// delete first node
+    // delete first node
     void deleteFirst(){
         if(head == null){
             return;
         }
         head = head.next;
     }
-	// delete last node	
+     // delete last node	
      void deleteLast(){
         if(head == null){
             return;
@@ -153,14 +153,14 @@ public class LinkedList{
         al.addFirst(16);
         al.addFirst(13);
 		
-		al.display();
+	al.display();
 		
         al.add(156);
         al.add(513);
 		
-		al.display();
+	al.display();
 		
-		al.deleteFirst();
+	al.deleteFirst();
         al.display();
     
     }
