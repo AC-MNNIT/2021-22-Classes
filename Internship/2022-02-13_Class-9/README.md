@@ -16,13 +16,13 @@
 ## Lecture Notes : [Click Here](NOTES.md)
 
 ## Practice Problems
-# Easy
+### Easy
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 - [Add 2 numbers represented by Linked List (Amazon)](https://leetcode.com/problems/add-two-numbers/)
 - [Add One](https://www.geeksforgeeks.org/add-1-number-represented-linked-list/)
 - [Delete without Head Pointer](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
-# Level up
+### Level up
 
 - [Find Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Delete Middle](https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
@@ -31,13 +31,10 @@
 - [Nth Node from end of linked List](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 - [Pallindrome in Linked List(Important)](https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/)
 
-# Challenge
+### Challenge
 
 - [Clone the Linked List](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - [Quick Sort on Linked List](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
-
-
-
 
 
 If you have any queries, feel free to contact any of the Application Club Leads.
