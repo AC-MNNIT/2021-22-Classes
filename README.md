@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-    <img src="./aclogo.png" alt="MNNIT AC Club logo"/>
+    <img src="./aclogo.png" alt="MNNIT AC Club logo" height="100px"/>
 </div>
 
 This repository contains the resources, support links and other relevant materials for every class under Application Club, MNNIT Allahabad,Prayagraj.
