@@ -1,6 +1,7 @@
-# AC Class 6
+# AC Class 6 (Linked List)
 
 ## Class Recording: Will be shared soon
+### **Mentor: [Prakhar Gupta](https://github.com/Prakhar1106)**
 
 ## Topics Covered
 
