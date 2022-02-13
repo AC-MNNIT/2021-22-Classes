@@ -123,15 +123,15 @@ public class LinkedList{
         
         temp.next = curr;
     }      
- 
+	// delete first node
     void deleteFirst(){
         if(head == null){
             return;
         }
         head = head.next;
     }
-	
-	void deleteLast(){
+	// delete last node	
+     void deleteLast(){
         if(head == null){
             return;
         }
