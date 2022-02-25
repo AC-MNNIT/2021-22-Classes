@@ -15,6 +15,7 @@
     - Detect Loop in Linked List
 
 ## Lecture Notes : [Click Here](NOTES.md)
+## One More LL Notes : [Click Here](https://drive.google.com/file/d/1y3z6k-smVLuXP5LwpsnKteo59KhjN0iD/view?usp=sharing)
 
 ## Practice Problems
 ### Easy
