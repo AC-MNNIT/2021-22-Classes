@@ -1,4 +1,4 @@
-# AC Class 6 (Linked List)
+# AC Class 9 (Linked List)
 
 ## Class Recording: [Link](https://drive.google.com/file/d/1ha0ExeEwzmVOSXnF109XHYPBv1JFfICC/view?usp=sharing)
 ### **Mentor: [Prakhar Gupta](https://github.com/Prakhar1106)**
